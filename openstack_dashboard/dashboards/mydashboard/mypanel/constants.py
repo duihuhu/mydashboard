@@ -1,0 +1,7 @@
+POLICY_TEMPLATE_NAME = 'mydashboard/mypanel/index.html'
+POLICY_INDEX_URL = 'horizon:mydashboard:mypanel:index'
+POLICY_INDEX_VIEW_TEMPLATE = 'mydashboard/mypanel/index.html'
+POLICY_CREATE_URL = 'horizon:mydashboard:mypanel:create'
+POLICY_CREATE_VIEW_TEMPLATE = 'mydashboard/mypanel/create.html'
+POLICY_UPDATE_URL = 'horizon:mydashboard:mypanel:update'
+POLICY_UPDATE_VIEW_TEMPLATE = 'mydashboard/mypanel/update.html'
